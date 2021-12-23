@@ -25,13 +25,12 @@ Additional Features:
   - Clicking is disabled while cheat mode is on
   - This can be toggled on and off
 
-How to play:
-To play please do the following:
+### How to play:
 
 To play please do the following:
 - Download all the files in the repository
-- Add the java files to your project folder
-- Add the .jar as extrenal libraries to the project's classpath
+- Add the .java files to your project folder
+- Add the .jar files as extrenal libraries to the project's classpath
 - In your run configurations:
   - Under main, for your main class write: tester.Main
   - Under arguments, for your program arguments write: RunConcentration
