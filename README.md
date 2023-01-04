@@ -33,4 +33,3 @@ To play please do the following:
 Image of the game:
 
 ![Screen Shot 2021-12-23 at 2 32 36 PM](https://user-images.githubusercontent.com/89400862/147286259-f61221e7-d8ca-4371-93fd-edd4b83d433b.png)
-![image](https://user-images.githubusercontent.com/89400862/210664526-11f0f500-fcce-4bf5-8ca2-72a32d247afa.png)
