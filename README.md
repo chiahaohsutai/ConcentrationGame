@@ -15,7 +15,7 @@ Additional Features:
   - Clicking is disabled while cheat mode is on
   - This can be toggled on and off
 
-### How to play:
+### Run the project:
 
 To play please do the following:
 - Download all the files in the repository
